@@ -1,4 +1,4 @@
-# My Portfolio
+# Abhinav's Portfolio
 
 A modern, responsive portfolio website built with **Angular** and **Tailwind CSS**, showcasing my professional work, skills, and projects.
 
@@ -66,6 +66,12 @@ npm run build
 
 - **Email:** abhinav.tiwari@example.com
 - **GitHub:** [@abhinavtiwari77](https://github.com/abhinavtiwari77)
-- **Website:** [portfolio.xorosphere.co/](https://echoabhinav.me/)
+- **Website:** [portfolio.xorosphere.co/](https://portfolio.xorosphere.co/)
+
+## 📝 License
+
+This project is open source and available under the MIT License.
+
 ---
 
+**Built with ❤️ by Abhinav Tiwari**
