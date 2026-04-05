@@ -66,12 +66,4 @@ npm run build
 
 - **Email:** abhinav.tiwari@example.com
 - **GitHub:** [@abhinavtiwari77](https://github.com/abhinavtiwari77)
-- **Website:** [portfolio.xorosphere.co/](https://portfolio.xorosphere.co/)
-
-## 📝 License
-
-This project is open source and available under the MIT License.
-
----
-
-**Built with ❤️ by Abhinav Tiwari**
+- **Website:** [portfolio.xorosphere.co/](https://echoabhinav.me/)
