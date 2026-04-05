@@ -64,6 +64,6 @@ npm run build
 
 ## 📧 Contact
 
-- **Email:** abhinav.tiwari@example.com
+- **Email:** abhinavt00001@gmail.com
 - **GitHub:** [@abhinavtiwari77](https://github.com/abhinavtiwari77)
 - **Website:** (https://echoabhinav.me/)
