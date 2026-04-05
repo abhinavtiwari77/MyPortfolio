@@ -1,29 +1,71 @@
-# Personal Portfolio using Angular and Tailwind
+# My Portfolio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
+A modern, responsive portfolio website built with **Angular** and **Tailwind CSS**, showcasing my professional work, skills, and projects.
 
-![myportfolio](https://github.com/user-attachments/assets/e6f6197b-dd8c-48e9-b4f2-24c10f3b73c5)
+## 🚀 Features
 
-## Development server
+- **Responsive Design** — Mobile-first approach with seamless desktop experience
+- **Dark Mode Support** — Toggle between light and dark themes
+- **Project Showcase** — Detailed project cards with filters and gallery
+- **Skills & Tech Stack** — Interactive display of technical expertise
+- **Contact Integration** — Direct messaging and social links
+- **Contentful CMS** — Dynamic content management
+- **Confetti Effects** — Celebratory animations for engaging UX
+- **SEO Optimized** — Sitemap and meta tags for better visibility
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🛠️ Tech Stack
 
-## Code scaffolding
+- **Frontend:** Angular, TypeScript, Tailwind CSS
+- **CMS:** Contentful
+- **Deployment:** Netlify
+- **Build Tools:** Vite, Angular CLI
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 📂 Project Structure
 
-## Build
+```
+src/
+├── app/
+│   ├── cards/          # Reusable card components
+│   ├── components/     # Main page sections
+│   ├── services/       # API and utility services
+│   ├── app.routes.ts   # Routing configuration
+│   └── app.config.ts   # Application setup
+├── assets/             # Images and fonts
+└── environments/       # Environment configs
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🚀 Getting Started
 
-## Running unit tests
+### Prerequisites
+- Node.js (v18+)
+- npm or yarn
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Installation
 
-## Running end-to-end tests
+```bash
+# Clone the repository
+git clone https://github.com/abhinavtiwari77/MyPortfolio.git
+cd MyPortfolio
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# Install dependencies
+npm install
 
-## Further help
+# Start development server
+npm start
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+The application will be available at `http://localhost:4200/`.
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+## 📧 Contact
+
+- **Email:** abhinav.tiwari@example.com
+- **GitHub:** [@abhinavtiwari77](https://github.com/abhinavtiwari77)
+- **Website:** [portfolio.xorosphere.co/](https://echoabhinav.me/)
+---
+
